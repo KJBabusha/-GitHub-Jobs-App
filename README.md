@@ -231,5 +231,5 @@ This project is licensed under the **MIT License**.
 
 # Author
 
-KJBabusha
+KJBabusha :
 Software Developer | React | JavaScript | Full-Stack Development
